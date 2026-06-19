@@ -57,3 +57,14 @@ A cada nota digitada:
 - o programa verifica se o aluno foi aprovado ou reprovado
 
 No final, o programa calcula a média e mostra todos os resultados no console.
+
+## Orientação a Objetos
+
+Exercícios feitos para praticar criação de classes, atributos, métodos de instância, `toString()` e organização em pacotes:
+
+- 01 - Rectangle
+- 02 - Circle
+- 03 - Employee
+- 04 - Student
+- 05 - BankAccount
+- 06 - EnergyBill
