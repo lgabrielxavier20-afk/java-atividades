@@ -74,3 +74,9 @@ Exercícios feitos para praticar criação de classes, atributos, métodos de in
 - 07 - Product
 - 08 - Books
 - 09 - BankAccount with constructors
+
+## Desafios 80
+
+Pacote extra com 80 exercícios originais, organizados por tema e nível.
+
+- [Desafios 80](desafios-80/README.md)
