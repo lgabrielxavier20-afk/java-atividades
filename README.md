@@ -68,3 +68,9 @@ Exercícios feitos para praticar criação de classes, atributos, métodos de in
 - 04 - Student
 - 05 - BankAccount
 - 06 - EnergyBill
+
+## Constructor exercises
+
+- 07 - Product
+- 08 - Books
+- 09 - BankAccount with constructors
