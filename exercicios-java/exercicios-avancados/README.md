@@ -1,8 +1,6 @@
 # Exercicios Avancados
 
-Pacote com 80 exercicios originais, organizados por tema, nivel e formato de prova.
-
-Alguns enunciados foram inspirados no estilo de plataformas de treino como Beecrowd, mas todos foram reescritos do zero para este repositorio.
+Pasta com exercicios organizados por tema e nivel.
 
 ## Organizacao
 

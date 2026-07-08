@@ -1,6 +1,6 @@
 # Java Atividades
 
-Colecao de estudos em Java organizada em uma trilha principal.
+Repositorio com minhas atividades de estudo em Java.
 
 ## Estrutura
 
@@ -8,4 +8,4 @@ Colecao de estudos em Java organizada em uma trilha principal.
 
 ## Observacao
 
-Os materiais estao agrupados dentro de `exercicios-java/` para evitar espalhar as atividades pela raiz do repositorio.
+Tudo fica organizado dentro de `exercicios-java/` para nao misturar as atividades pela raiz do repo.

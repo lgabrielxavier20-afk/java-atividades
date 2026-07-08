@@ -1,6 +1,6 @@
 # Orientacao a Objetos
 
-Pasta com exercicios de pratica para classes, atributos, metodos de instancia, construtores, encapsulamento e toString.
+Aqui estao os exercicios que eu usei para fixar classes, atributos, metodos, construtores, encapsulamento e `toString`.
 
 ## Lista de exercicios
 
@@ -13,7 +13,13 @@ Pasta com exercicios de pratica para classes, atributos, metodos de instancia, c
 - 07 - Product
 - 08 - Books
 - 09 - BankAccount with constructors
+- 10 - Client and Address
+- 11 - Employee and Department
+- 12 - Car and Engine
+- 13 - Student and Course
+- 14 - Product and Category
+- 15 - BankAccount with transfer
 
 ## Objetivo
 
-Esses exercicios servem para fixar o passo a passo do desenvolvimento em POO antes de entrar em vetores de objetos e listas.
+Fixar a base de POO antes de partir para vetores de objetos e listas.

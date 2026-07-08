@@ -1,6 +1,6 @@
 # Exercicios Java
 
-Colecao principal do repositorio com os materiais que acompanham a evolucao dos estudos.
+Aqui eu junto as trilhas e praticas do que estou estudando em Java.
 
 ## Trilhas
 
@@ -9,7 +9,7 @@ Colecao principal do repositorio com os materiais que acompanham a evolucao dos 
 - [Fundamentos ate Vetores](fundamentos-ate-vetores/README.md)
 - [Exercicios Avancados](exercicios-avancados/README.md)
 
-## Ordem sugerida
+## Ordem que eu estou seguindo
 
 1. Mini projeto inicial
 2. Orientacao a objetos
