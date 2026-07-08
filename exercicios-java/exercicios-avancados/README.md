@@ -1,4 +1,4 @@
-# Praticas Avancadas
+# Exercicios Avancados
 
 Pacote com 80 exercicios originais, organizados por tema, nivel e formato de prova.
 
